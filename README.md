@@ -12,7 +12,4 @@ NetUtility is a powerful, feature-packed Windows-only command-line tool designed
 🔹 Requirements
 Windows OS (Tested on Windows 10/11)
 Python 3.8+
-Required modules: colorama, requests, psutil, whois, subprocess🔹 Requirements
-Windows OS (Tested on Windows 10/11)
-Python 3.8+
 Required modules: colorama, requests, psutil, whois, subprocess
